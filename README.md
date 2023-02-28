@@ -12,7 +12,7 @@ Its basically a Jupyter notebook that performs some fundamental functions of Pyt
 <h2>Installation</h2>
 To install our project, follow these steps:
 
-1. Clone the repository: `[git clone [repository URL]](https://github.com/XRdXu/CMPINF-0010-Labs/blob/main/README.md)`
+1. Clone the repository: `[git clone [repository URL]](https://github.com/XRdXu/CMPINF-0010-Labs/blob/main/lab6.ipynb)`
 
 <h2>Usage</h2>
 To use our lab6.ipynb program, follow these steps:
