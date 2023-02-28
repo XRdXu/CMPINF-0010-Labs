@@ -74,16 +74,6 @@ We welcome contributions from the community! To contribute to Python Practice, f
 <h2>Code of Conduct</h2>
 Our project follows the Contributor Covenant Code of Conduct. Please review this document before contributing to the project.
 
-<h2>License</h2>
-This project is licensed under the MIT License.
-
-<h2>Contact</h2>
-If you have any questions or comments about Python Practice, please contact us at [88888@ggmail.com] or through our [www.8888.com].
-
-
-<h2>Miscellany</h2> 
-Liense choose: (MIT license)The program we've written is just a demo code to practice the basics of Python, and there's nothing particularly interesting about the technology that needed to be protected by a protective license.  Therefore the license we chose for it was the Mit license.  According to its definition and the explanation of the Lab lecture, it is basically saying "do whatever you want to do, just don't sue me", which is very much in line with our needs, and that is why we choose it.
-
 Code of Conduct:
 1.Respect others: Respect the views and contributions of others in the community and avoid verbal and behavioral aggression and demeaning.
 
@@ -94,3 +84,14 @@ Code of Conduct:
 4.Obey the law: abide by local laws and regulations and avoid any illegal or unethical behavior.
 
 5.Respect intellectual property rights: Respect intellectual property rights and Copyrights, and avoid infringing on others' intellectual property rights and Copyrights.
+
+<h2>License</h2>
+This project is licensed under the MIT License.
+
+<h2>Contact</h2>
+If you have any questions or comments about Python Practice, please contact us at [88888@ggmail.com] or through our [www.8888.com].
+
+
+<h2>Miscellany</h2> 
+Liense choose: (MIT license)The program we've written is just a demo code to practice the basics of Python, and there's nothing particularly interesting about the technology that needed to be protected by a protective license.  Therefore the license we chose for it was the Mit license.  According to its definition and the explanation of the Lab lecture, it is basically saying "do whatever you want to do, just don't sue me", which is very much in line with our needs, and that is why we choose it.
+
